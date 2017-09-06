@@ -3,7 +3,6 @@ body{
 	background: rgba(230, 233, 202, 1);
 	-webkit-background-size:cover;
 	background-size:cover;
-	font-size:62.5%;
 }
 body,h2,h4,div,p,span,ul,ol,li,a,button,img{
 	margin:0;
