@@ -110,10 +110,15 @@ body,h2,h4,div,p,span,ul,ol,li,a,button,img{
 	transition: all 0.8s;
 }
 .item-3 .pro-introduce h4 {
-	font-size: 1.6rem;
+	font-size: 1.8rem;
 }
 .item-3 .pro-introduce h4 a {
+	display: block;
 	color: #fff;
+	text-decoration: none;
+}
+.item-3 .pro-introduce h4 a:hover {
+	color: rgb(255, 20, 20);
 }
 .item-3 .pro-introduce p {
 	margin-top: 1rem;
